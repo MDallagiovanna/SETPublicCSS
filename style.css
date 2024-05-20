@@ -1,0 +1,223 @@
+.firma-mail {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.firma-mail .div {
+  width: 662px;
+  height: 327px;
+  position: relative;
+}
+
+.firma-mail .logo {
+  position: absolute;
+  width: 103px;
+  height: 162px;
+  top: 71px;
+  left: 66px;
+}
+
+.firma-mail .union {
+  position: absolute;
+  width: 101px;
+  height: 108px;
+  top: 0;
+  left: 2px;
+}
+
+.firma-mail .overlap-group {
+  position: absolute;
+  width: 105px;
+  height: 46px;
+  top: 116px;
+  left: -2px;
+}
+
+.firma-mail .text-wrapper {
+  position: absolute;
+  top: 28px;
+  left: 12px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: var(--byzantine-blue);
+  font-size: 12.7px;
+  text-align: center;
+  letter-spacing: -0.13px;
+  line-height: 17.1px;
+  white-space: nowrap;
+}
+
+.firma-mail .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--byzantine-blue);
+  font-size: 22.6px;
+  text-align: center;
+  letter-spacing: -0.23px;
+  line-height: 30.6px;
+  white-space: nowrap;
+}
+
+.firma-mail .line {
+  position: absolute;
+  width: 1px;
+  height: 155px;
+  top: 71px;
+  left: 243px;
+  object-fit: cover;
+}
+
+.firma-mail .group {
+  position: absolute;
+  width: 268px;
+  height: 108px;
+  top: 94px;
+  left: 312px;
+}
+
+.firma-mail .overlap {
+  position: absolute;
+  width: 262px;
+  height: 32px;
+  top: 76px;
+  left: 0;
+  background-image: url("https://svgur.com/i/1686.svg");
+  background-size: 100% 100%;
+}
+
+.firma-mail .text-wrapper-3 {
+  position: absolute;
+  top: 3px;
+  left: 59px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: var(--white);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.firma-mail .link-fill-wrapper {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 3px;
+  left: 3px;
+}
+
+.firma-mail .link-fill {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  top: 2px;
+  left: 2px;
+}
+
+.firma-mail .overlap-group-2 {
+  position: relative;
+  width: 19px;
+  height: 9px;
+  top: 6px;
+  left: 2px;
+}
+
+.firma-mail .subtract {
+  position: absolute;
+  width: 8px;
+  height: 9px;
+  top: 0;
+  left: 10px;
+}
+
+.firma-mail .img {
+  position: absolute;
+  width: 8px;
+  height: 9px;
+  top: 0;
+  left: 0;
+}
+
+.firma-mail .vector {
+  position: absolute;
+  width: 11px;
+  height: 2px;
+  top: 4px;
+  left: 4px;
+}
+
+.firma-mail .icono-linkedin-wrapper {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 191px;
+  background-color: var(--azul-elctrico-softedge);
+  border-radius: 42px;
+}
+
+.firma-mail .icono-linkedin {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 4px;
+  left: 4px;
+}
+
+.firma-mail .text-wrapper-4 {
+  position: absolute;
+  top: 34px;
+  left: 10px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: var(--azul-elctrico-softedge);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.firma-mail .text-wrapper-5 {
+  position: absolute;
+  top: 2px;
+  left: 10px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: var(--azul-elctrico-softedge);
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.firma-mail .p {
+  position: absolute;
+  width: 252px;
+  top: 225px;
+  left: 322px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: var(--azul-elctrico-softedge);
+  font-size: 9px;
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.firma-mail .NY-FL-MVD {
+  position: absolute;
+  top: 239px;
+  left: 87px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: var(--azul-elctrico-softedge);
+  font-size: 9px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
